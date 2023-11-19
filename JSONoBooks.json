@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "book": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publisher": "Houghton Mifflin",
+    "dopub": "21-Sep-37",
+    "genre": "Fantasy",
+    "snippets": [
+      "Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon.\nBilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum.",
+      null
+    ]
+  },
+  {
+    "id": 2,
+    "book": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "publisher": "Bantam",
+    "dopub": "6-Aug-96",
+    "genre": "Fantasy",
+    "snippets": [
+      "Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister forces are massing beyond the kingdom�s protective Wall. To the south, the king�s powers are failing�his most trusted adviser dead under mysterious circumstances and his enemies emerging from the shadows of the throne. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the frozen land they were born to. Now Lord Eddard Stark is reluctantly summoned to serve as the king�s new Hand, an appointment that threatens to sunder not only his family but the kingdom itself.",
+      null
+    ]
+  },
+  {
+    "id": 3,
+    "book": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "publisher": "HarperCollins Publishers",
+    "dopub": "16-Oct-50",
+    "genre": "Fantasy",
+    "snippets": [
+      "Lucy is the first to find the secret of the wardrobe in the professor's mysterious old house. At first her brothers and sister don't believe her when she tells of her visit to the land of Narnia. But soon Edmund, then Peter and Susan step through the wardrobe themselves. In Narnia they find a country buried under the evil enchantment of the White Witch. When they meet the Lion Aslan, they realize they've been called to a great adventure and bravely join the battle to free Narnia from the Witch's sinister spell.",
+      null
+    ]
+  },
+  {
+    "id": 4,
+    "book": "Eragon",
+    "author": "Christopher Paolini",
+    "publisher": "Alfred A. Knopf",
+    "dopub": "1-Jun-02",
+    "genre": "Fantasy",
+    "snippets": [
+      "When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter. But when the stone brings a dragon hatchling, Eragon soon realizes he has stumbled upon a legacy nearly as old as the Empire itself. Overnight his simple life is shattered, and he is thrust into a perilous new world of destiny, magic, and power. With only an ancient sword and the advice of an old storyteller for guidance, Eragon and the fledgling dragon must navigate the dangerous terrain and dark enemies of an Empire ruled by a king whose evil knows no bounds. Can Eragon take up the mantle of the legendary Dragon Riders? The fate of the Empire may rest in his hands.",
+      null
+    ]
+  },
+  {
+    "id": 5,
+    "book": "The Princess Bride",
+    "author": "William Goldman",
+    "publisher": "Ballantine Books",
+    "dopub": "1-Sep-73",
+    "genre": "Fantasy",
+    "snippets": [
+      "As Florin and Guilder teeter on the verge of war, the reluctant Princess Buttercup is devastated by the loss of her true love, kidnapped by a mercenary and his henchman, rescued by a pirate, forced to marry Prince Humperdinck, and rescued once again by the very crew who absconded with her in the first place. In the course of this dazzling adventure, she'll meet Vizzini--the criminal philosopher who'll do anything for a bag of gold; Fezzik--the gentle giant; Inigo--the Spaniard whose steel thirsts for revenge; and Count Rugen--the evil mastermind behind it all. Foiling all their plans and jumping into their stories is Westley, Princess Buttercup�s one true love and a very good friend of a very dangerous pirate.",
+      null
+    ]
+  },
+  {
+    "id": 6,
+    "book": "Carrie",
+    "author": "Stephen King",
+    "publisher": "Pocket",
+    "dopub": "1-Jan-74",
+    "genre": "Horror",
+    "snippets": [
+      "Carrie may be picked on by her classmates but she has a gift. She can move things with her mind. Doors lock. Candles fall. This is her power and her problem. To be invited to Prom Night by Tommy Ross is a dream come true for Carrie � the first step towards social acceptance by her high school colleagues. Until an unexpected cruelty turns her gift into a weapon of terror and destruction that no one will ever forget.",
+      null
+    ]
+  },
+  {
+    "id": 7,
+    "book": "Pet Sematary",
+    "author": "Stephen King",
+    "publisher": "Scribner",
+    "dopub": "14-Nov-83",
+    "genre": "Horror",
+    "snippets": [
+      "When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son-and now an idyllic home. As a family, they've got it all...right down to the friendly car. But the nearby woods hide a blood-chilling truth-more terrifying than death itself-and hideously more powerful. The Creeds are going to learn that sometimes dead is better.",
+      null
+    ]
+  },
+  {
+    "id": 8,
+    "book": "Rosemary's Baby",
+    "author": "Ira Levin",
+    "publisher": "Signet",
+    "dopub": "1-Jan-67",
+    "genre": "Horror",
+    "snippets": [
+      "Suppose you were an up-to-date young wife who moved into an old and elegant New York apartment house with a rather strange past. Suppose that only after you became pregnant did you begin to suspect the building harbored a diabolically evil group of devil worshippers who had mastered the arts of black magic and witchcraft. Suppose that this satanic conspiracy set out to claim not only your husband but your baby. Well, that's what happened to Rosemary... Or did it...?",
+      null
+    ]
+  },
+  {
+    "id": 9,
+    "book": "Misery",
+    "author": "Stephen King",
+    "publisher": "New English Library",
+    "dopub": "8-Jun-87",
+    "genre": "Horror",
+    "snippets": [
+      "Paul Sheldon. He's a bestselling novelist who has finally met his biggest fan. Her name is Annie Wilkes and she is more than a rabid reader - she is Paul's nurse, tending his shattered body after an automobile accident. But she is also his captor, keeping him prisoner in her isolated house.",
+      null
+    ]
+  },
+  {
+    "id": 10,
+    "book": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "publisher": "Arrow Books",
+    "dopub": "1-Jul-88",
+    "genre": "Horror",
+    "snippets": [
+      "A serial murderer known only by a grotesquely apt nickname�Buffalo Bill�is stalking women. He has a purpose, but no one can fathom it, for the bodies are discovered in different states. Clarice Starling, a young trainee at the FBI Academy, is surprised to be summoned by Jack Crawford, chief of the Bureau's Behavioral Science section. Her assignment: to interview Dr. Hannibal Lecter�Hannibal the Cannibal�who is kept under close watch in the Baltimore State Hospital for the Criminally Insane. Dr. Lecter is a former psychiatrist with a grisly history, unusual tastes, and an intense curiosity about the darker corners of the mind. His intimate understanding of the killer and of Clarice herself form the core of \"The Silence of the Lambs\"�an ingenious, masterfully written book and an unforgettable classic of suspense fiction.",
+      null
+    ]
+  },
+  {
+    "id": 11,
+    "book": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "publisher": "Scholastic Press",
+    "dopub": "14-Oct-08",
+    "genre": "YA Fiction",
+    "snippets": [
+      "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning? In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before�and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weight survival against humanity and life against love.",
+      null
+    ]
+  },
+  {
+    "id": 12,
+    "book": "The Fault in Our Stars",
+    "author": "John Green",
+    "publisher": "Dutton Books",
+    "dopub": "10-Jan-12",
+    "genre": "YA Fiction",
+    "snippets": [
+      "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+      null
+    ]
+  },
+  {
+    "id": 13,
+    "book": "Divergent",
+    "author": "Veronica Roth",
+    "publisher": "Katherine Tegen Books",
+    "dopub": "1-Jan-12",
+    "genre": "YA Fiction",
+    "snippets": [
+      "In Beatrice Prior's dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue�Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is�she can't have both. So she makes a choice that surprises everyone, including herself. During the highly competitive initiation that follows, Beatrice renames herself Tris and struggles alongside her fellow initiates to live out the choice they have made. Together they must undergo extreme physical tests of endurance and intense psychological simulations, some with devastating consequences. As initiation transforms them all, Tris must determine who her friends really are�and where, exactly, a romance with a sometimes fascinating, sometimes exasperating boy fits into the life she's chosen. But Tris also has a secret, one she's kept hidden from everyone because she's been warned it can mean death. And as she discovers unrest and growing conflict that threaten to unravel her seemingly perfect society, she also learns that her secret might help her save those she loves . . . or it might destroy her.",
+      null
+    ]
+  },
+  {
+    "id": 14,
+    "book": "Twilight",
+    "author": "Stephenie Meyer",
+    "publisher": "Little, Brown and Company",
+    "dopub": "6-Sep-06",
+    "genre": "YA Fiction",
+    "snippets": [
+      "First, Edward was a vampire. Second, there was a part of him - and I didn't know how dominant that part might be - that thirsted for my blood. And third, I was unconditionally and irrevocably in love with him.",
+      null
+    ]
+  },
+  {
+    "id": 15,
+    "book": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "publisher": "Atria Books",
+    "dopub": "2-Aug-16",
+    "genre": "YA Fiction",
+    "snippets": [
+      "Lily hasn�t always had it easy, but that�s never stopped her from working hard for the life she wants. She�s come a long way from the small town in Maine where she grew up � she graduated from college, moved to Boston, and started her own business. So when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily�s life suddenly seems almost too good to be true. Ryle is assertive, stubborn, maybe even a little arrogant. He�s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn�t hurt. Lily can�t get him out of her head. But Ryle�s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his �no dating� rule, she can�t help but wonder what made him that way in the first place. As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan � her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened.",
+      null
+    ]
+  },
+  {
+    "id": 16,
+    "book": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "Harper Perennial Modern Classics",
+    "dopub": "�July 11, 1960",
+    "genre": "Historical Fiction",
+    "snippets": [
+      "Set in the small Southern town of Maycomb, Alabama, during the Depression, To Kill a Mockingbird follows three years in the life of 8-year-old Scout Finch, her brother, Jem, and their father, Atticus--three years punctuated by the arrest and eventual trial of a young black man accused of raping a white woman.",
+      null
+    ]
+  },
+  {
+    "id": 17,
+    "book": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": "Modern Library",
+    "dopub": "January 28, 1813",
+    "genre": "Historical Fiction",
+    "snippets": [
+      "In the early 19th century, the�Bennet family�live at their Longbourn estate, situated near the village of Meryton in�Hertfordshire, England. Mrs Bennet's greatest desire is to marry off her five daughters to secure their futures. The arrival of Mr Bingley, a rich bachelor who rents the neighbouring Netherfield estate, gives her hope that one of her daughters might contract an advantageous marriage, because \"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife\".",
+      null
+    ]
+  },
+  {
+    "id": 18,
+    "book": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "dopub": "1-Jan-25",
+    "genre": "Historical Fiction",
+    "snippets": [
+      "Jay Gatsby is the man who has everything. But one thing will always be out of his reach. Everybody who is anybody is seen at his glittering parties. Day and night his Long Island mansion buzzes with bright young things drinking, dancing, and debating his mysterious character. For Gatsby---young, handsome, and fabulously rich---always seems alone in the crowd, watching and waiting, though no one knows what for. Beneath the shimmering surface of his life he is hiding a secret: a silent longing that can never be fulfilled. And soon this destructive obsession will force his world to unravel.",
+      null
+    ]
+  },
+  {
+    "id": 19,
+    "book": "Little Women",
+    "author": "Louisa May Alcott",
+    "publisher": "Signet Classics",
+    "dopub": "6-Apr-04",
+    "genre": "Historical Fiction",
+    "snippets": [
+      "As a New England mother struggles to support her family in the wake of her husband�s service in the Civil War, her four daughters struggle, too - caught between childhood dreams and the realities of burgeoning adulthood. For Meg, Jo, Beth, and Amy March, raised in integrity and virtue, negotiating the right path in life means making choices that will either narrow or expand their destinies.",
+      null
+    ]
+  },
+  {
+    "id": 20,
+    "book": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "publisher": "Penguin Books",
+    "dopub": "March 16, 1850",
+    "genre": "Historical Fiction",
+    "snippets": [
+      "Set in 17th-century Puritan Boston, Massachusetts, during the years 1642 to 1649, it tells the story of Hester Prynne, who conceives a daughter through an affair and will not reveal her lover�s identity. The scarlet letter A (for adultery) she has to wear on her clothes, along with her public shaming, is her punishment for her sin and her secrecy. She struggles to create a new life of repentance and dignity.",
+      null
+    ]
+  },
+  {
+    "id": 21,
+    "book": "Dune",
+    "author": "Frank Herbert",
+    "publisher": "Ace",
+    "dopub": "1-Jun-65",
+    "genre": "Science Fiction",
+    "snippets": [
+      "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the �spice� melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for... When House Atreides is betrayed, the destruction of Paul�s family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad�Dib, he will bring to fruition humankind�s most ancient and unattainable dream.",
+      null
+    ]
+  },
+  {
+    "id": 22,
+    "book": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "publisher": "Del Rey Books",
+    "dopub": "12-Oct-79",
+    "genre": "Science Fiction",
+    "snippets": [
+      "Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor. Together this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide (\"A towel is about the most massively useful thing an interstellar hitchhiker can have\") and a galaxy-full of fellow travelers: Zaphod Beeblebrox--the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years. Where are these pens? Why are we born? Why do we die? Why do we spend so much time between wearing digital watches? For all the answers stick your thumb to the stars. And don't forget to bring a towel!",
+      null
+    ]
+  },
+  {
+    "id": 23,
+    "book": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publisher": "Simon & Schuster",
+    "dopub": "19-Oct-53",
+    "genre": "Science Fiction",
+    "snippets": [
+      "Guy Montag is a fireman. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden. Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television �family.� But when he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people didn�t live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television, Montag begins to question everything he has ever known.",
+      null
+    ]
+  },
+  {
+    "id": 24,
+    "book": 1984,
+    "author": "George Orwell",
+    "publisher": "Plume",
+    "dopub": "8-Jun-49",
+    "genre": "Science Fiction",
+    "snippets": [
+      "To Winston Smith, a young man who works in the Ministry of Truth (Minitru for short), come two people who transform this life completely. One is Julia, whom he meets after she hands him a slip reading, \"I love you.\" The other is O'Brien, who tells him, \"We shall meet in the place where there is no darkness.\" The way in which Winston is betrayed by the one and, against his own desires and instincts, ultimately betrays the other, makes a story of mounting drama and suspense.",
+      null
+    ]
+  },
+  {
+    "id": 25,
+    "book": "Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "publisher": "Orbit",
+    "dopub": "2-Jun-11",
+    "genre": "Science Fiction",
+    "snippets": [
+      "Humanity has colonized the solar system�Mars, the Moon, the Asteroid Belt and beyond�but the stars are still out of our reach. Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, the�Scopuli, they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for�and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why. Detective Miller is looking for a girl. One girl in a system of billions, but her parents have money and money talks. When the trail leads him to the�Scopuli�and rebel sympathizer Holden, he realizes that this girl may be the key to everything. Holden and Miller must thread the needle between the Earth government, the Outer Planet revolutionaries, and secretive corporations�and the odds are against them. But out in the Belt, the rules are different, and one small ship can change the fate of the universe.",
+      null
+    ]
+  }
+]
